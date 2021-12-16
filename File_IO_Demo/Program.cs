@@ -19,7 +19,9 @@ namespace File_IO_Demo
             Console.ReadKey();
 
             }
-
+             /// <summary>
+             /// it will check file exists or not
+             /// </summary>
             public static void FileExists()
             {
             String path = @"C:\Users\Afiyat Khan\source\repos\File_IO_Demo\File_IO_Demo\Example.txt";
